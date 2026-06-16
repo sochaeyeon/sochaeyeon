@@ -17,6 +17,7 @@
 ![Express](https://img.shields.io/badge/Express_v5-000000?style=flat-square&logo=express&logoColor=white)
 ![Oracle DB](https://img.shields.io/badge/Oracle_DB-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
 
 ### Frontend
 ![JSP](https://img.shields.io/badge/JSP-FF6F00?style=flat-square)
@@ -33,11 +34,14 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Tesseract OCR](https://img.shields.io/badge/Tesseract_OCR-000000?style=flat-square)
 
 ### Tools
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white)
 
 ---
 
@@ -58,6 +62,17 @@
 - 배송조회 기능 구현
 - 통합 검색 기능 구현
 - 프로젝트 전체 페이지 CSS 개선 및 UI 스타일 통일 및 부가 기능 추가
+
+**사용 기술**  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.12-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-17-007396?style=flat-square&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![AWS RDS](https://img.shields.io/badge/AWS_RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-FF6F00?style=flat-square)
+![Jakarta](https://img.shields.io/badge/Jakarta-007396?style=flat-square)
+![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat-square)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![Toss Payments](https://img.shields.io/badge/Toss_Payments-0064FF?style=flat-square)
 
 ---
 
@@ -110,7 +125,18 @@ AI 기반 광고성 리뷰 유사도 판별 서비스입니다.
 - Google Gemini AI 연동
 
 **사용 기술**  
-React · MUI · Tiptap · Monaco Editor · Node.js · Express v5 · Oracle DB · JWT · Passport.js · Google/GitHub OAuth · Multer · Nodemailer · Google Gemini
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![MUI](https://img.shields.io/badge/MUI_v6-007FFF?style=flat-square&logo=mui&logoColor=white)
+![Tiptap](https://img.shields.io/badge/Tiptap-000000?style=flat-square)
+![Monaco Editor](https://img.shields.io/badge/Monaco_Editor-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express_v5-000000?style=flat-square&logo=express&logoColor=white)
+![Oracle DB](https://img.shields.io/badge/Oracle_DB-F80000?style=flat-square&logo=oracle&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=flat-square&logo=passport&logoColor=black)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![Multer](https://img.shields.io/badge/Multer-FF6F00?style=flat-square)
+![Nodemailer](https://img.shields.io/badge/Nodemailer-22B573?style=flat-square)
 
 ---
 
