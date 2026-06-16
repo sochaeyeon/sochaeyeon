@@ -62,23 +62,37 @@
 ---
 
 ### 🧠 AdBye
-AI 기반 광고성 리뷰 유사도 판별 서비스입니다.  
+AI 기반 광고성 리뷰 유사도 판별 서비스입니다.
 사용자 리뷰와 DB에 저장된 광고성 리뷰를 비교하여
-유사도 백분율과 가장 유사한 광고성 리뷰를 함께 제공합니다.  
-가장 유사한 광고성 리뷰는 두 줄로 요약하여  
-시각화 차트 아래에 함께 표시되도록 구현했습니다.
+유사도 백분율과 가장 유사한 광고성 리뷰를 함께 제공합니다.
 
 **주요 기능**
-- 리뷰 문장 임베딩
-- 광고성 리뷰 유사도 분석
-- 가장 유사한 광고성 리뷰 표시
-- 유사 광고성 리뷰 2줄 요약 제공
-- 광고성 여부 판단
-- 유사도 결과 시각화
+- 리뷰 텍스트 입력 및 이미지 OCR 업로드
+- 카테고리별 광고성 리뷰 유사도 분석
+- 유사도 결과 도넛 차트 시각화
+- 가장 유사한 광고성 리뷰 표시 및 Gemini 기반 2줄 요약
+- 광고/비광고 키워드 추출 및 광고성 여부 판단
+- 분석 히스토리 날짜별 조회
+
+**담당 역할**
+- React 프론트엔드 전반 구현 (메인 페이지, 히스토리 페이지)
+- 카테고리 사이드바, 분석 결과 UI 구성
+- 히스토리 날짜별 그룹핑 및 아코디언 UI 구현
+- 전체 페이지 CSS 스타일 설계 및 통일
+
+**성과**
+- 대조학습 기반 파인튜닝 + 키워드 가중치 보정으로 집단 분리도(Cohen's d) 약 **7.2배 향상**
+- **p-value < 0.001** 수준의 통계적 유의성 확보
 
 **사용 기술**  
-Python · SentenceTransformer · all-MiniLM-L6-v2 · SQLite · Matplotlib · React
-
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![SentenceTransformers](https://img.shields.io/badge/SentenceTransformers-222222?style=flat-square)
 ---
 ### ⌨️ CtrlE
 코드 공유, 소통, 협업을 위한 **개발자 전용 SNS 플랫폼**입니다.  
