@@ -53,14 +53,6 @@
 
 ---
 
-## 📊 GitHub 활동
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sochaeyeon&theme=tokyonight&hide_border=true" width="80%" />
-</p>
-
----
-
 ## 📌 프로젝트
 
 ### 🏕 모닥모닥
