@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=안녕하세요.%20소채연입니다&fontSize=40&fontColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%2C%20I'm%20소채연&fontSize=40&fontColor=ffffff&animation=fadeIn)
 
 새로운 내용을 배우면 직접 정리하고 적용해보며  
 이해한 내용을 제 것으로 만들기 위해 노력합니다.
@@ -7,7 +7,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 기술 스택
 
 [![Skills](https://skillicons.dev/icons?i=java,spring,mysql,nodejs,express,oracle,jsp,html,css,js,jquery,react,mui,python,fastapi,sqlite,github,vscode,idea)](https://skillicons.dev)
 
@@ -53,20 +53,15 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub 활동
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sochaeyeon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sochaeyeon&layout=donut&theme=tokyonight&hide_border=true" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sochaeyeon&theme=tokyonight&hide_border=true" width="70%" />
+  <img src="https://streak-stats.demolab.com/?user=sochaeyeon&theme=tokyonight&hide_border=true" width="80%" />
 </p>
 
 ---
 
-## 📌 Projects
+## 📌 프로젝트
 
 ### 🏕 모닥모닥
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sochaeyeon/modak)
@@ -169,7 +164,7 @@ AI 기반 광고성 리뷰 유사도 판별 서비스입니다.
 
 ---
 
-## ✨ Interest
+## ✨ 관심 분야
 - 사용자 흐름을 고려한 기능 설계
 - 상태값에 따른 동적 UI 처리
 - 예외 상황을 고려한 안정적인 기능 구현
