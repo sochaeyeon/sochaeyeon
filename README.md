@@ -1,4 +1,5 @@
-# 안녕하세요, 소채연입니다.
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%2C%20I'm%20소채연&fontSize=40&fontColor=ffffff&animation=fadeIn)
+
 새로운 내용을 배우면 직접 정리하고 적용해보며  
 이해한 내용을 제 것으로 만들기 위해 노력합니다.
 작은 문제도 그냥 넘기지 않고  
@@ -7,6 +8,11 @@
 ---
 
 ## 🛠 Tech Stack
+
+[![Skills](https://skillicons.dev/icons?i=java,spring,mysql,nodejs,express,oracle,jsp,html,css,js,jquery,react,mui,python,fastapi,sqlite,github,vscode,idea)](https://skillicons.dev)
+
+<details>
+<summary>세부 스택 보기</summary>
 
 ### Backend
 ![Java](https://img.shields.io/badge/Java-17-007396?style=flat-square&logo=openjdk&logoColor=white)
@@ -43,11 +49,28 @@
 ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white)
 
+</details>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sochaeyeon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sochaeyeon&layout=donut&theme=tokyonight&hide_border=true" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=sochaeyeon&theme=tokyonight&hide_border=true" width="70%" />
+</p>
+
 ---
 
 ## 📌 Projects
 
 ### 🏕 모닥모닥
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sochaeyeon/modak)
+
 캠핑용품 대여와 구매를 함께 제공하는 웹 기반 커머스 프로젝트입니다.
 
 **주요 기능**  
@@ -77,6 +100,8 @@
 ---
 
 ### 🧠 AdBye
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sochaeyeon/AdBye)
+
 AI 기반 광고성 리뷰 유사도 판별 서비스입니다.
 사용자 리뷰와 DB에 저장된 광고성 리뷰를 비교하여
 유사도 백분율과 가장 유사한 광고성 리뷰를 함께 제공합니다.
@@ -108,9 +133,13 @@ AI 기반 광고성 리뷰 유사도 판별 서비스입니다.
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![SentenceTransformers](https://img.shields.io/badge/SentenceTransformers-222222?style=flat-square)
+
 ---
+
 ### ⌨️ CtrlE
-코드 공유, 소통, 협업을 위한 **개발자 전용 SNS 플랫폼**입니다.  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sochaeyeon/CtrlE)
+
+코드 공유, 소통, 협업을 위한 **개발자 전용 SNS 플랫폼**입니다.
 혼자 마주치는 에러도, 막히는 코드도 커뮤니티 안에서 함께 해결해 나간다는 의미를 담았습니다.
 
 **주요 기능**  
