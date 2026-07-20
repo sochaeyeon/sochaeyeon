@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%2C%20I'm%20소채연&fontSize=40&fontColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=안녕하세요.%20소채연입니다&fontSize=40&fontColor=ffffff&animation=fadeIn)
 
 새로운 내용을 배우면 직접 정리하고 적용해보며  
 이해한 내용을 제 것으로 만들기 위해 노력합니다.
